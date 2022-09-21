@@ -2,5 +2,9 @@
 GitHub introduction Hello World exercise
 
 GIS 5571
-# H1 Learning to Code
-*commence coding*
+#Learning to Code in GIS 5571
+MPH in MCH student
+Bucks in 6
+On Wisconsin
+*Go Pack Go*
+
